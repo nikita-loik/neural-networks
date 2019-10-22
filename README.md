@@ -1,7 +1,7 @@
 # neural-networks
 This project combines top-down and bottom-up approaches to neural-networks.
 
-It focuses on classical example of 10-digit recognition using MNIST database and combines 3 different approaches to neural network.
+It focuses on classical example of 10-digit recognition using [MNIST database](http://yann.lecun.com/exdb/mnist/) and combines 3 different approaches to neural network.
 
 |author|approach|
 |:-:|:-:|
